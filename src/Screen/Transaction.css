@@ -1,0 +1,120 @@
+.transction{
+	height:100vh;
+	width:100vw;
+}
+.Tp{
+	height:5vh;
+	width:100vw;
+	background-color:white;
+}
+.Tp1{
+	height:5vh;
+	width:90vw;
+	background-color:white;
+	display:flex;
+	justify-content:space-between;
+	margin-left:2vh;
+	position:fixed;
+	top:0px;
+}
+.Tp div{
+	margin-top:1vh;
+	color: black;
+}
+.Ots{
+	height:5vh;
+	width:98vw;
+	display:flex;
+	background-color:grey;
+	margin-top:5vh;
+	justify-content:space-around;
+}
+.Ots div{
+	margin-top:1vh;
+	color:white;
+}
+.Dae{
+	height:5vh;
+	width:100vw;
+	color:black;
+	background-color:;
+}
+.Rage{
+	height:3vh;
+	margin-top:1vh;
+	font-size:2vh;
+	margin-left:3vh;
+}
+.expeses{
+	display:flex;
+	height:2vh;
+	margin-top:2px;
+	margin-left:3vh;
+} 
+.expeses In{
+	font-size:14px;
+}
+.expeses In div{
+	font-size:12px;
+}
+expeses Out{
+	font-size:14px;
+	margin-left:30vh;
+}
+.expeses Out div{
+	font-size:12px;
+}
+.spae{
+	width:15px;
+}
+.withrawal{
+	height:80vh;
+	width:90vw;
+	margin-left:2vh;
+	border-radius:9px;
+	display:flex;
+}
+.ico{
+	height:8vh;
+	width:8vh;
+}
+.ico div{
+	height:6vh;
+	width:6vh;
+	border-radius:100%;
+	margin:1vh;
+}
+.ttco{
+	height:8vh;
+}
+.typ{
+	height:4vh;
+	overflow:hidden;
+	text-overflow:allipsis;
+	white-space:nowrap;
+	max-width:24vh;
+}
+.typ div{
+	margin-top:1vh;
+	font-size:16px;
+	color:black;
+}
+.tim{
+	height:3vh;
+}
+.tim div{
+	margin-top:4px;
+	font-size:11px;
+	color:black;
+}
+.amoun{
+	height:8vh;
+	max-width:9vh;
+	text-align: left;
+}
+.amoun div{
+	font-size:16px;
+	margin-top:2vh;
+	max-width:9vh;
+	color:black;
+}

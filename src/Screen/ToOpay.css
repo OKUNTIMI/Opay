@@ -1,0 +1,146 @@
+.Tocon{
+	height:100vh;
+	width:100vw;
+	
+}
+.Otop{
+	height:5vh;
+	width:100vw;
+	background-color:grey;
+	display:flex;
+}
+.OtopT{
+	font-size:20px;
+	margin-left:20vw;
+	margin-top:2vh;
+}
+.OtopH{
+	margin-top:21px;
+	font-size:14px;
+	margin-left:7vw;
+}
+.Oadvert{
+	height:5vh;
+	border-radius:9px;
+	width:94vw;
+	margin-left:3vw;
+	background-color:green;
+	display:flex;
+	margin-top:1vh;
+}
+.Oadverticon{
+	margin-left:5vw;
+	margin-top:1vh;
+}
+.Oadverttext{
+	margin-left:1vw;
+	color:black;
+	margin-top:1vh;
+	font-size:18px;
+}
+.TOpayment{
+	width:94vw;
+	margin-left:3vw;
+	height:15vh;
+	background-color:grey;
+	margin-top:2vh;
+	border-radius:16px;
+}
+.TOpRa{
+	padding-top:1vh;
+	margin-left:4vw;
+	font-size:20px;
+}
+.TOpinputs{
+	height:4vh;
+	width:80vw;
+	margin-top:1vh;
+	margin-left:4vw;
+	border-radius:13px;
+	
+	display:flex;
+}
+.TOpinputs input{
+	height:28px;
+	width:68vw;
+	border-radius:13px;
+	background-color:grey;
+	margin-left:1vw;
+} 
+.TOpicon{
+	margin-top:5px;
+}
+.TOptext{
+	margin-left:5vw;
+	margin-top:1vh;
+}
+.TOptext1{
+	font-size:14px;
+}
+.TOptext2{
+	font-size:14px;
+}
+.TOaccount{
+	height:40vh;
+	width:94vw;
+	margin-left:3vw;
+	margin-top:2vh;
+	border-radius:13px;
+	background-color:grey;
+}
+.TOaccountHead{
+	display:flex;
+	padding-top:1vh;
+	justify-content:space-around;
+	font-size:18px;
+}
+.TOaccountAcct{
+	height:30vh;
+	width:90vw;
+	margin-left:5vw;
+	margin-top:3vh;
+}
+.TOacctholder{
+	display:flex;
+	margin-top:1vh;
+}
+.TOaccountAccttexts{
+	margin-left:5vw;
+	height:8vh;
+}
+.TOaccountAcctname{
+	font-size:18px;
+}
+.TOaccountAcctacct{
+	font-size:13px;
+	margin-top:3px;
+}
+.TOaccountViewall{
+	height:3vh;
+	padding:2px;
+	width:20vw;
+	margin-left:38vw;
+	background-color:blue;
+	border-radius:6px;
+}
+.TOaccountViewall div{
+	height:3vh;
+	color:white;
+	padding:2px;
+	width:20vw;
+	margin-left:1vw;
+	margin-top:2px;
+}
+.TOpayother{
+	height:9vh;
+	width:94vw;
+	margin-left:3vw;
+	margin-top:1vh;
+	border-radius:13px;
+	display:flex;
+	background-color:grey;
+}
+.TOpayothericon1{
+	margin-left:5vw;
+	
+}
